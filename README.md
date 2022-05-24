@@ -10,7 +10,7 @@
 - You understand why we are not going to use it often
 
 ## Component state architecture
-<img width="1102" alt="Screenshot 2022-05-24 at 20 22 57" src="https://user-images.githubusercontent.com/31222514/170105722-9480a4e0-d398-4529-b085-566c3dad7fec.png">
+<img width="1102" alt="Screenshot 2022-05-24 at 21 07 53" src="https://user-images.githubusercontent.com/31222514/170113497-6fcbc813-c938-4a6a-a926-60b3f2655c92.png">
 
 
 ## Prop drilling
