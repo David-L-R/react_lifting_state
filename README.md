@@ -20,17 +20,21 @@
 
 We can pass props down the components, so sub-components can use them
 
-```
+```js
+// we fetched users
 const users = [ ... ]
-const user = { ... }
 
-<div className="App">
-   <Navbar user={user} />
-   <Users user={user} users={users} />
-   <Footer />
-</div>
+const Users = () => {
+
+   return (
+       <>
+        { users.map(user => 
+          (
+            <Users user={user} />        
+          )
+        )}
+      </>
+   )
 ```
-
-
 
 ## Lifting state
