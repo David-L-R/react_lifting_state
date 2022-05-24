@@ -10,13 +10,12 @@
 - You understand why we are not going to use it often
 
 ## Component state architecture
-<img width="1102" alt="Screenshot 2022-05-24 at 21 07 53" src="https://user-images.githubusercontent.com/31222514/170113497-6fcbc813-c938-4a6a-a926-60b3f2655c92.png">
 
+<img width="1102" alt="Screenshot 2022-05-24 at 21 07 53" src="https://user-images.githubusercontent.com/31222514/170113497-6fcbc813-c938-4a6a-a926-60b3f2655c92.png">
 
 ## Prop drilling
 
 <img width="1102" alt="Screenshot 2022-05-24 at 21 09 03" src="https://user-images.githubusercontent.com/31222514/170113651-881fdc33-51cf-4a62-9243-ea73c291f3b5.png">
-
 
 We can pass props down the components, so sub-components can use them
 
@@ -28,9 +27,9 @@ const Users = () => {
 
    return (
        <>
-        { users.map(user => 
+        { users.map(user =>
           (
-            <Users user={user} />        
+            <Users user={user} />
           )
         )}
       </>
@@ -45,6 +44,3 @@ We will store The state in the parent component of all components that need to s
 - setState goes up ⬆️
 
 <img width="1102" alt="Screenshot 2022-05-24 at 21 17 13" src="https://user-images.githubusercontent.com/31222514/170114927-becf686b-0b95-4d4c-b19c-5525d6ec4dcd.png">
-
-
-

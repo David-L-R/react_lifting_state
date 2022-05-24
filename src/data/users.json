@@ -1,0 +1,1269 @@
+[
+  {
+    "id": 5,
+    "index": 0,
+    "age": 39,
+    "name": "Yang Watkins",
+    "gender": "male",
+    "email": "yangwatkins@pushcart.com",
+    "hobbies": [
+      "fugiat",
+      "occaecat",
+      "veniam",
+      "ullamco",
+      "mollit",
+      "nisi",
+      "cillum"
+    ],
+    "pets": [
+      {
+        "name": "White",
+        "type": "dog"
+      },
+      {
+        "name": "Henry",
+        "type": "dog"
+      },
+      {
+        "name": "Ava",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "index": 1,
+    "age": 32,
+    "name": "Romero Beasley",
+    "gender": "male",
+    "email": "romerobeasley@pushcart.com",
+    "hobbies": ["voluptate", "eu", "irure", "consequat", "anim", "sit", "ex"],
+    "pets": [
+      {
+        "name": "Booker",
+        "type": "dog"
+      },
+      {
+        "name": "Daphne",
+        "type": "rabbit"
+      },
+      {
+        "name": "Mays",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "index": 2,
+    "age": 10,
+    "name": "Beatrice Wolf",
+    "gender": "female",
+    "email": "beatricewolf@pushcart.com",
+    "hobbies": [
+      "anim",
+      "in",
+      "incididunt",
+      "occaecat",
+      "ullamco",
+      "labore",
+      "eiusmod"
+    ],
+    "pets": [
+      {
+        "name": "Harriett",
+        "type": "rabbit"
+      },
+      {
+        "name": "Roseann",
+        "type": "cat"
+      },
+      {
+        "name": "Ivy",
+        "type": "lizard"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "index": 3,
+    "age": 32,
+    "name": "Ilene Davenport",
+    "gender": "female",
+    "email": "ilenedavenport@pushcart.com",
+    "hobbies": ["ut", "ipsum", "ex", "enim", "laboris", "labore", "ullamco"],
+    "pets": [
+      {
+        "name": "Avery",
+        "type": "cat"
+      },
+      {
+        "name": "Eaton",
+        "type": "cat"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "index": 4,
+    "age": 29,
+    "name": "Roberts Duke",
+    "gender": "male",
+    "email": "robertsduke@pushcart.com",
+    "hobbies": ["et", "nulla", "culpa", "voluptate", "tempor", "Lorem", "eu"],
+    "pets": [
+      {
+        "name": "Harrington",
+        "type": "cat"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "index": 5,
+    "age": 29,
+    "name": "Cindy Bullock",
+    "gender": "female",
+    "email": "cindybullock@pushcart.com",
+    "hobbies": [
+      "velit",
+      "Lorem",
+      "in",
+      "adipisicing",
+      "irure",
+      "amet",
+      "consectetur"
+    ],
+    "pets": [
+      {
+        "name": "Beard",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "index": 6,
+    "age": 19,
+    "name": "Antonia Jordan",
+    "gender": "female",
+    "email": "antoniajordan@pushcart.com",
+    "hobbies": [
+      "veniam",
+      "cillum",
+      "excepteur",
+      "deserunt",
+      "id",
+      "officia",
+      "amet"
+    ],
+    "pets": [
+      {
+        "name": "Terrell",
+        "type": "dog"
+      },
+      {
+        "name": "Beasley",
+        "type": "cat"
+      },
+      {
+        "name": "Deirdre",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "index": 7,
+    "age": 36,
+    "name": "Clarissa Zamora",
+    "gender": "female",
+    "email": "clarissazamora@pushcart.com",
+    "hobbies": [
+      "nostrud",
+      "excepteur",
+      "voluptate",
+      "adipisicing",
+      "laboris",
+      "magna",
+      "do"
+    ],
+    "pets": [
+      {
+        "name": "Key",
+        "type": "fish"
+      },
+      {
+        "name": "Tamara",
+        "type": "dog"
+      },
+      {
+        "name": "Stephenson",
+        "type": "rabbit"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "index": 8,
+    "age": 10,
+    "name": "Heather Sears",
+    "gender": "female",
+    "email": "heathersears@pushcart.com",
+    "hobbies": ["in", "et", "do", "tempor", "eu", "cupidatat", "nulla"],
+    "pets": [
+      {
+        "name": "Lindsay",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "index": 9,
+    "age": 13,
+    "name": "Tracey Battle",
+    "gender": "female",
+    "email": "traceybattle@pushcart.com",
+    "hobbies": [
+      "voluptate",
+      "pariatur",
+      "incididunt",
+      "est",
+      "sunt",
+      "aute",
+      "qui"
+    ],
+    "pets": [
+      {
+        "name": "Foley",
+        "type": "fish"
+      },
+      {
+        "name": "Howe",
+        "type": "fish"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "index": 10,
+    "age": 36,
+    "name": "Leblanc Mayo",
+    "gender": "male",
+    "email": "leblancmayo@pushcart.com",
+    "hobbies": ["reprehenderit", "duis", "in", "sint", "do", "do", "quis"],
+    "pets": []
+  },
+  {
+    "id": 10,
+    "index": 11,
+    "age": 32,
+    "name": "Sweet Frye",
+    "gender": "male",
+    "email": "sweetfrye@pushcart.com",
+    "hobbies": [
+      "incididunt",
+      "anim",
+      "eu",
+      "reprehenderit",
+      "fugiat",
+      "pariatur",
+      "aliqua"
+    ],
+    "pets": [
+      {
+        "name": "Gardner",
+        "type": "dog"
+      },
+      {
+        "name": "Estella",
+        "type": "cat"
+      },
+      {
+        "name": "Maude",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "index": 12,
+    "age": 19,
+    "name": "Guadalupe Valdez",
+    "gender": "female",
+    "email": "guadalupevaldez@pushcart.com",
+    "hobbies": [
+      "mollit",
+      "amet",
+      "nostrud",
+      "occaecat",
+      "qui",
+      "non",
+      "laborum"
+    ],
+    "pets": [
+      {
+        "name": "Winifred",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "index": 13,
+    "age": 38,
+    "name": "Amanda Kirkland",
+    "gender": "female",
+    "email": "amandakirkland@pushcart.com",
+    "hobbies": [
+      "voluptate",
+      "quis",
+      "sunt",
+      "occaecat",
+      "elit",
+      "mollit",
+      "elit"
+    ],
+    "pets": [
+      {
+        "name": "Lee",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "index": 14,
+    "age": 25,
+    "name": "Diana Cobb",
+    "gender": "female",
+    "email": "dianacobb@pushcart.com",
+    "hobbies": [
+      "aliquip",
+      "irure",
+      "dolor",
+      "commodo",
+      "aliquip",
+      "laborum",
+      "culpa"
+    ],
+    "pets": [
+      {
+        "name": "Mcpherson",
+        "type": "dog"
+      },
+      {
+        "name": "Monique",
+        "type": "fish"
+      },
+      {
+        "name": "Ethel",
+        "type": "cat"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "index": 15,
+    "age": 13,
+    "name": "Reyna Bailey",
+    "gender": "female",
+    "email": "reynabailey@pushcart.com",
+    "hobbies": ["consequat", "anim", "ipsum", "culpa", "ad", "sit", "aliquip"],
+    "pets": [
+      {
+        "name": "Gladys",
+        "type": "lizard"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "index": 16,
+    "age": 32,
+    "name": "Griffith Mcclure",
+    "gender": "male",
+    "email": "griffithmcclure@pushcart.com",
+    "hobbies": [
+      "commodo",
+      "cillum",
+      "pariatur",
+      "minim",
+      "voluptate",
+      "ea",
+      "consectetur"
+    ],
+    "pets": []
+  },
+  {
+    "id": 8,
+    "index": 17,
+    "age": 16,
+    "name": "Espinoza Conner",
+    "gender": "male",
+    "email": "espinozaconner@pushcart.com",
+    "hobbies": [
+      "culpa",
+      "eiusmod",
+      "aliquip",
+      "eiusmod",
+      "pariatur",
+      "non",
+      "magna"
+    ],
+    "pets": [
+      {
+        "name": "Stark",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "index": 18,
+    "age": 25,
+    "name": "Carmella Burns",
+    "gender": "female",
+    "email": "carmellaburns@pushcart.com",
+    "hobbies": [
+      "non",
+      "aliquip",
+      "eu",
+      "laborum",
+      "voluptate",
+      "aute",
+      "labore"
+    ],
+    "pets": [
+      {
+        "name": "Morgan",
+        "type": "dog"
+      },
+      {
+        "name": "Simmons",
+        "type": "cat"
+      },
+      {
+        "name": "Hardy",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "index": 19,
+    "age": 37,
+    "name": "Vicky Haley",
+    "gender": "female",
+    "email": "vickyhaley@pushcart.com",
+    "hobbies": ["ut", "cillum", "duis", "amet", "amet", "nisi", "occaecat"],
+    "pets": [
+      {
+        "name": "Teri",
+        "type": "dog"
+      },
+      {
+        "name": "Janis",
+        "type": "cat"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "index": 20,
+    "age": 20,
+    "name": "Mclaughlin Wilder",
+    "gender": "male",
+    "email": "mclaughlinwilder@pushcart.com",
+    "hobbies": [
+      "culpa",
+      "quis",
+      "nulla",
+      "adipisicing",
+      "Lorem",
+      "nulla",
+      "veniam"
+    ],
+    "pets": [
+      {
+        "name": "Mari",
+        "type": "cat"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "index": 21,
+    "age": 31,
+    "name": "Lea Hanson",
+    "gender": "female",
+    "email": "leahanson@pushcart.com",
+    "hobbies": ["non", "nisi", "velit", "sit", "reprehenderit", "duis", "quis"],
+    "pets": [
+      {
+        "name": "Jacquelyn",
+        "type": "dog"
+      },
+      {
+        "name": "Riddle",
+        "type": "lizard"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "index": 22,
+    "age": 23,
+    "name": "Randolph Rivera",
+    "gender": "male",
+    "email": "randolphrivera@pushcart.com",
+    "hobbies": ["amet", "minim", "deserunt", "ad", "Lorem", "tempor", "sunt"],
+    "pets": []
+  },
+  {
+    "id": 10,
+    "index": 23,
+    "age": 33,
+    "name": "Ray Edwards",
+    "gender": "male",
+    "email": "rayedwards@pushcart.com",
+    "hobbies": [
+      "voluptate",
+      "ut",
+      "proident",
+      "nisi",
+      "aliqua",
+      "cillum",
+      "esse"
+    ],
+    "pets": [
+      {
+        "name": "Mack",
+        "type": "dog"
+      },
+      {
+        "name": "Bell",
+        "type": "fish"
+      },
+      {
+        "name": "Lenora",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "index": 24,
+    "age": 16,
+    "name": "Clarice Curtis",
+    "gender": "female",
+    "email": "claricecurtis@pushcart.com",
+    "hobbies": ["et", "ex", "amet", "aute", "aute", "eiusmod", "anim"],
+    "pets": [
+      {
+        "name": "Patrica",
+        "type": "cat"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "index": 25,
+    "age": 24,
+    "name": "Owens Orr",
+    "gender": "male",
+    "email": "owensorr@pushcart.com",
+    "hobbies": ["laborum", "sint", "sit", "do", "cillum", "consectetur", "non"],
+    "pets": [
+      {
+        "name": "Karla",
+        "type": "fish"
+      },
+      {
+        "name": "Magdalena",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "index": 26,
+    "age": 37,
+    "name": "Garner Fields",
+    "gender": "male",
+    "email": "garnerfields@pushcart.com",
+    "hobbies": [
+      "consectetur",
+      "officia",
+      "labore",
+      "minim",
+      "esse",
+      "voluptate",
+      "sint"
+    ],
+    "pets": [
+      {
+        "name": "Ronda",
+        "type": "dog"
+      },
+      {
+        "name": "Katy",
+        "type": "lizard"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "index": 27,
+    "age": 29,
+    "name": "Mcconnell Gentry",
+    "gender": "male",
+    "email": "mcconnellgentry@pushcart.com",
+    "hobbies": ["ut", "ad", "anim", "est", "et", "ullamco", "esse"],
+    "pets": [
+      {
+        "name": "Horne",
+        "type": "fish"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "index": 28,
+    "age": 22,
+    "name": "Strong Cooley",
+    "gender": "male",
+    "email": "strongcooley@pushcart.com",
+    "hobbies": ["ipsum", "minim", "nostrud", "sint", "veniam", "minim", "sunt"],
+    "pets": [
+      {
+        "name": "Acevedo",
+        "type": "dog"
+      },
+      {
+        "name": "Peck",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "index": 29,
+    "age": 22,
+    "name": "Quinn Kidd",
+    "gender": "male",
+    "email": "quinnkidd@pushcart.com",
+    "hobbies": ["ipsum", "esse", "tempor", "ut", "ullamco", "ex", "occaecat"],
+    "pets": [
+      {
+        "name": "Moses",
+        "type": "dog"
+      },
+      {
+        "name": "Wanda",
+        "type": "dog"
+      },
+      {
+        "name": "Earlene",
+        "type": "cat"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "index": 30,
+    "age": 33,
+    "name": "Shanna Rodriguez",
+    "gender": "female",
+    "email": "shannarodriguez@pushcart.com",
+    "hobbies": [
+      "officia",
+      "ipsum",
+      "excepteur",
+      "nostrud",
+      "id",
+      "commodo",
+      "consequat"
+    ],
+    "pets": [
+      {
+        "name": "Adrienne",
+        "type": "lizard"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "index": 31,
+    "age": 16,
+    "name": "Isabelle Dunlap",
+    "gender": "female",
+    "email": "isabelledunlap@pushcart.com",
+    "hobbies": [
+      "duis",
+      "id",
+      "ullamco",
+      "anim",
+      "sunt",
+      "occaecat",
+      "reprehenderit"
+    ],
+    "pets": [
+      {
+        "name": "Marian",
+        "type": "cat"
+      },
+      {
+        "name": "Michael",
+        "type": "dog"
+      },
+      {
+        "name": "Nieves",
+        "type": "lizard"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "index": 32,
+    "age": 25,
+    "name": "Bailey Cruz",
+    "gender": "male",
+    "email": "baileycruz@pushcart.com",
+    "hobbies": [
+      "id",
+      "mollit",
+      "ad",
+      "cupidatat",
+      "pariatur",
+      "occaecat",
+      "enim"
+    ],
+    "pets": [
+      {
+        "name": "Castillo",
+        "type": "lizard"
+      },
+      {
+        "name": "Best",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "index": 33,
+    "age": 36,
+    "name": "Jenny Price",
+    "gender": "female",
+    "email": "jennyprice@pushcart.com",
+    "hobbies": ["veniam", "eiusmod", "enim", "officia", "enim", "magna", "ea"],
+    "pets": []
+  },
+  {
+    "id": 3,
+    "index": 34,
+    "age": 23,
+    "name": "Greene Byrd",
+    "gender": "male",
+    "email": "greenebyrd@pushcart.com",
+    "hobbies": [
+      "ullamco",
+      "cillum",
+      "eiusmod",
+      "culpa",
+      "duis",
+      "minim",
+      "ullamco"
+    ],
+    "pets": [
+      {
+        "name": "Blankenship",
+        "type": "lizard"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "index": 35,
+    "age": 19,
+    "name": "Albert Atkins",
+    "gender": "male",
+    "email": "albertatkins@pushcart.com",
+    "hobbies": [
+      "nulla",
+      "aliquip",
+      "ad",
+      "est",
+      "mollit",
+      "excepteur",
+      "tempor"
+    ],
+    "pets": [
+      {
+        "name": "Leanna",
+        "type": "cat"
+      },
+      {
+        "name": "Jones",
+        "type": "dog"
+      },
+      {
+        "name": "Melba",
+        "type": "fish"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "index": 36,
+    "age": 29,
+    "name": "Luna Cameron",
+    "gender": "male",
+    "email": "lunacameron@pushcart.com",
+    "hobbies": ["elit", "velit", "non", "mollit", "esse", "esse", "magna"],
+    "pets": []
+  },
+  {
+    "id": 0,
+    "index": 37,
+    "age": 33,
+    "name": "Rios Black",
+    "gender": "male",
+    "email": "riosblack@pushcart.com",
+    "hobbies": [
+      "voluptate",
+      "officia",
+      "sit",
+      "qui",
+      "excepteur",
+      "nulla",
+      "magna"
+    ],
+    "pets": [
+      {
+        "name": "Richmond",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "index": 38,
+    "age": 24,
+    "name": "Humphrey Jackson",
+    "gender": "male",
+    "email": "humphreyjackson@pushcart.com",
+    "hobbies": [
+      "Lorem",
+      "non",
+      "ullamco",
+      "voluptate",
+      "Lorem",
+      "aliquip",
+      "ad"
+    ],
+    "pets": [
+      {
+        "name": "Snyder",
+        "type": "dog"
+      },
+      {
+        "name": "England",
+        "type": "rabbit"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "index": 39,
+    "age": 19,
+    "name": "Sabrina Sellers",
+    "gender": "female",
+    "email": "sabrinasellers@pushcart.com",
+    "hobbies": ["labore", "pariatur", "ipsum", "in", "esse", "labore", "Lorem"],
+    "pets": [
+      {
+        "name": "Schultz",
+        "type": "dog"
+      },
+      {
+        "name": "Leona",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "index": 40,
+    "age": 19,
+    "name": "Russell Walters",
+    "gender": "male",
+    "email": "russellwalters@pushcart.com",
+    "hobbies": [
+      "qui",
+      "mollit",
+      "Lorem",
+      "pariatur",
+      "cillum",
+      "cillum",
+      "consectetur"
+    ],
+    "pets": []
+  },
+  {
+    "id": 1,
+    "index": 41,
+    "age": 16,
+    "name": "Faith Downs",
+    "gender": "female",
+    "email": "faithdowns@pushcart.com",
+    "hobbies": ["ipsum", "ea", "ea", "non", "sint", "et", "exercitation"],
+    "pets": [
+      {
+        "name": "Rocha",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "index": 42,
+    "age": 12,
+    "name": "Roman Blackwell",
+    "gender": "male",
+    "email": "romanblackwell@pushcart.com",
+    "hobbies": ["voluptate", "labore", "qui", "est", "velit", "in", "tempor"],
+    "pets": [
+      {
+        "name": "Lily",
+        "type": "fish"
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "index": 43,
+    "age": 34,
+    "name": "Eula Rodriquez",
+    "gender": "female",
+    "email": "eularodriquez@pushcart.com",
+    "hobbies": [
+      "laboris",
+      "ad",
+      "dolore",
+      "sunt",
+      "eiusmod",
+      "reprehenderit",
+      "ea"
+    ],
+    "pets": [
+      {
+        "name": "Burns",
+        "type": "dog"
+      },
+      {
+        "name": "Allison",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "index": 44,
+    "age": 28,
+    "name": "Faulkner Dotson",
+    "gender": "male",
+    "email": "faulknerdotson@pushcart.com",
+    "hobbies": ["in", "nisi", "sit", "irure", "est", "et", "dolor"],
+    "pets": [
+      {
+        "name": "Araceli",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "index": 45,
+    "age": 40,
+    "name": "Bryant Rivers",
+    "gender": "male",
+    "email": "bryantrivers@pushcart.com",
+    "hobbies": ["et", "laborum", "laboris", "duis", "elit", "veniam", "sint"],
+    "pets": [
+      {
+        "name": "Molly",
+        "type": "fish"
+      },
+      {
+        "name": "Ashley",
+        "type": "cat"
+      },
+      {
+        "name": "Montgomery",
+        "type": "fish"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "index": 46,
+    "age": 19,
+    "name": "Enid Gomez",
+    "gender": "female",
+    "email": "enidgomez@pushcart.com",
+    "hobbies": ["sint", "elit", "elit", "do", "incididunt", "nisi", "culpa"],
+    "pets": [
+      {
+        "name": "Jeanie",
+        "type": "rabbit"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "index": 47,
+    "age": 23,
+    "name": "Michele Berger",
+    "gender": "female",
+    "email": "micheleberger@pushcart.com",
+    "hobbies": ["velit", "ea", "ex", "dolor", "culpa", "ullamco", "cupidatat"],
+    "pets": [
+      {
+        "name": "Myrna",
+        "type": "cat"
+      },
+      {
+        "name": "Walls",
+        "type": "cat"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "index": 48,
+    "age": 29,
+    "name": "May Santiago",
+    "gender": "male",
+    "email": "maysantiago@pushcart.com",
+    "hobbies": ["eu", "id", "culpa", "sunt", "anim", "exercitation", "ad"],
+    "pets": [
+      {
+        "name": "Soto",
+        "type": "fish"
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "index": 49,
+    "age": 17,
+    "name": "Tabatha Rios",
+    "gender": "female",
+    "email": "tabatharios@pushcart.com",
+    "hobbies": ["officia", "et", "anim", "sunt", "mollit", "officia", "ut"],
+    "pets": [
+      {
+        "name": "Walsh",
+        "type": "cat"
+      },
+      {
+        "name": "Graham",
+        "type": "rabbit"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "index": 50,
+    "age": 20,
+    "name": "Workman Mckay",
+    "gender": "male",
+    "email": "workmanmckay@pushcart.com",
+    "hobbies": [
+      "commodo",
+      "ullamco",
+      "pariatur",
+      "cillum",
+      "nostrud",
+      "officia",
+      "aliqua"
+    ],
+    "pets": [
+      {
+        "name": "Dorthy",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "index": 51,
+    "age": 29,
+    "name": "Joanna Camacho",
+    "gender": "female",
+    "email": "joannacamacho@pushcart.com",
+    "hobbies": [
+      "eu",
+      "laboris",
+      "cupidatat",
+      "adipisicing",
+      "aliquip",
+      "nisi",
+      "duis"
+    ],
+    "pets": [
+      {
+        "name": "Gena",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "index": 52,
+    "age": 33,
+    "name": "Holt Salazar",
+    "gender": "male",
+    "email": "holtsalazar@pushcart.com",
+    "hobbies": [
+      "proident",
+      "duis",
+      "proident",
+      "veniam",
+      "ullamco",
+      "duis",
+      "mollit"
+    ],
+    "pets": [
+      {
+        "name": "Graciela",
+        "type": "cat"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "index": 53,
+    "age": 16,
+    "name": "Allie Rhodes",
+    "gender": "female",
+    "email": "allierhodes@pushcart.com",
+    "hobbies": [
+      "exercitation",
+      "Lorem",
+      "aliquip",
+      "excepteur",
+      "id",
+      "id",
+      "mollit"
+    ],
+    "pets": [
+      {
+        "name": "Angeline",
+        "type": "rabbit"
+      },
+      {
+        "name": "Mclean",
+        "type": "cat"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "index": 54,
+    "age": 36,
+    "name": "Carmen Lawson",
+    "gender": "female",
+    "email": "carmenlawson@pushcart.com",
+    "hobbies": [
+      "ut",
+      "laboris",
+      "aliquip",
+      "cupidatat",
+      "pariatur",
+      "excepteur",
+      "in"
+    ],
+    "pets": [
+      {
+        "name": "Gay",
+        "type": "cat"
+      },
+      {
+        "name": "Charlene",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "index": 55,
+    "age": 18,
+    "name": "Foster Flores",
+    "gender": "male",
+    "email": "fosterflores@pushcart.com",
+    "hobbies": [
+      "laboris",
+      "veniam",
+      "mollit",
+      "ex",
+      "fugiat",
+      "sunt",
+      "incididunt"
+    ],
+    "pets": []
+  },
+  {
+    "id": 6,
+    "index": 56,
+    "age": 28,
+    "name": "Diane Glenn",
+    "gender": "female",
+    "email": "dianeglenn@pushcart.com",
+    "hobbies": [
+      "excepteur",
+      "officia",
+      "nulla",
+      "duis",
+      "nulla",
+      "quis",
+      "quis"
+    ],
+    "pets": [
+      {
+        "name": "Sonja",
+        "type": "fish"
+      },
+      {
+        "name": "Gabriela",
+        "type": "cat"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "index": 57,
+    "age": 15,
+    "name": "Conner Ferrell",
+    "gender": "male",
+    "email": "connerferrell@pushcart.com",
+    "hobbies": [
+      "laborum",
+      "anim",
+      "cupidatat",
+      "nisi",
+      "adipisicing",
+      "culpa",
+      "ipsum"
+    ],
+    "pets": [
+      {
+        "name": "Dianne",
+        "type": "dog"
+      }
+    ]
+  }
+]
