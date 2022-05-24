@@ -38,3 +38,13 @@ const Users = () => {
 ```
 
 ## Lifting state
+
+We will store The state in the parent component of all components that need to share the state between them.
+
+- state goes down ⬇️
+- setState goes up ⬆️
+
+<img width="1102" alt="Screenshot 2022-05-24 at 21 17 13" src="https://user-images.githubusercontent.com/31222514/170114927-becf686b-0b95-4d4c-b19c-5525d6ec4dcd.png">
+
+
+
