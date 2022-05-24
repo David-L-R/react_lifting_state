@@ -15,6 +15,9 @@
 
 ## Prop drilling
 
+<img width="1102" alt="Screenshot 2022-05-24 at 21 09 03" src="https://user-images.githubusercontent.com/31222514/170113651-881fdc33-51cf-4a62-9243-ea73c291f3b5.png">
+
+
 We can pass props down the components, so sub-components can use them
 
 ```
