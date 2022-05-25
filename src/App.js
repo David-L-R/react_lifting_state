@@ -50,6 +50,3 @@ function App() {
 }
 
 export default App;
-
-// Q&A
-// any difference between default export to regular
